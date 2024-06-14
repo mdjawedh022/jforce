@@ -1,0 +1,24 @@
+.report-wrapper{
+    margin-top: 50px;
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+.report-wrapper button{
+    padding: 10px 20px;
+    border-radius: 10px;
+    border:1px solid teal;
+    background-color: white;
+    color: teal;
+    cursor: pointer;
+}
+.report-wrapper button:hover{
+
+    padding: 10px 20px;
+    border-radius: 10px;
+     background-color: teal;
+     color: white;
+}
